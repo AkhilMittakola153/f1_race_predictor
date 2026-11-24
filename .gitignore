@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venv312/
+.venv/
+
+# Downloaded API responses and generated data (recreate with collect.py / features.py)
+jolpica_cache/
+.fastf1-cache/
+*.csv
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
